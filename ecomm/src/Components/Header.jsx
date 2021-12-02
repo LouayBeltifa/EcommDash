@@ -14,7 +14,7 @@ function Header() {
         <div>
              <Navbar bg="dark" variant="dark">
                 <Container>
-                <Navbar.Brand href="#home">E-comm</Navbar.Brand>
+                <Navbar.Brand><Link to="/">Ecomm Dashboard</Link></Navbar.Brand>
                 <Nav className="me-auto navbar-warapper">
 
                     {
